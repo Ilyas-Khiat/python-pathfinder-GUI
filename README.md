@@ -20,9 +20,9 @@ When executing the `main.py` file , the app will look like this :
 
 ![main](readme_imgs/main.PNG)
 
-**Select** :
-- your pathfinding algo
-- the speed of visualization 
+In 4 steps :
+- select your pathfinding algo
+- choose the speed of visualization 
 - put your starting and ending points wherever you want
 - press `s` to start and `c` to clear !
 
