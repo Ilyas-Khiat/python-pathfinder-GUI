@@ -28,3 +28,6 @@ You can access the notice manipulating the `DOWN` and `UP` buttons.
 You can also **randomly generate mazes** !!!
 
 ![maze](readme_imgs/maze.gif)
+
+## HAVE FUN !!!
+contact me : kiatdotblend@gmail.com
